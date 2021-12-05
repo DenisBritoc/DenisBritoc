@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I'm currently interested in learning about code and building new projects
-- 🌱 I’m currently learning Js, HTML, CSS, and React.
+- 🌱 I’m currently learning JS, HTML, CSS, and React.
 - 💞️ I'm looking to collaborate on projects, games, etc...
 - 📫 How to reach me: denis.link@hotmail.com or +55 11 958387599
 <!---
